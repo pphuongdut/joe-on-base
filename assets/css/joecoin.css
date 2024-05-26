@@ -2211,18 +2211,18 @@ body {
 }
 
 .link {
-  color: red;
+  color: black;
   text-transform: uppercase;
   font-style: normal;
   text-decoration: none;
 }
 
 .link:hover {
-  color: #e3e57d;
+  color: #2f3005;
 }
 
 .link:visited {
-  color: red;
+  color: rgb(56, 2, 2);
 }
 
 .section-3 {
