@@ -2248,13 +2248,12 @@ body {
 .description {
   text-align: center;
   text-indent: 0;
-  text-transform: uppercase;
   white-space: normal;
   font-style: normal;
 }
 
 .description.subtext {
-  font-size: 20px;
+  font-size: 16px;
 }
 
 .description.subtext.blue {
